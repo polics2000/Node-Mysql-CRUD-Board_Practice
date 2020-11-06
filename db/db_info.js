@@ -4,7 +4,7 @@ module.exports = (function() {
             host:'localhost',
             user:'jay',
             database:'nodedb',
-            password:'Er1516er@'
+            password:'password@'
         },
         real: {
             host: '',
